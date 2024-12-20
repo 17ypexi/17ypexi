@@ -1,5 +1,4 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hypexilegend&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hypexilegend&layout=compact&langs_count=10&theme=radical)
 
 ### I Love 
