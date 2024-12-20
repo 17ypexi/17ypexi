@@ -1,7 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hypexilegend&theme=radical&layout=compact">
 
-
 ### I Love 
 <a href="https://www.electronjs.org/" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/electron.js%20-%2343853D.svg?&style=for-the-badge&logo=electron.js&logoColor=black"/></a>
 
@@ -11,7 +10,7 @@
 I am Just a **Electron Applications Developer**, An excited programmer with hardworking, proactive and a self-starter; capable to of handling stressful conditions. Extremely sensitive with Front-end like node.js and next.js.
 
 
-### Skills 🎓
+### 🎓 Skills 
 
 | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="70"> |  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="70">      |  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="70"> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="70"> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="70"> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="70">  |    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="70">   |
 |-------------|-------------|-------------|-------------|-------------|-------------|-------------|
