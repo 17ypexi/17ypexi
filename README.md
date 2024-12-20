@@ -1,10 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hypexilegend&layout=compact&langs_count=10&theme=radical)
 
-### I Love 
-<a href="https://www.electronjs.org/" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/electron.js%20-%2343853D.svg?&style=for-the-badge&logo=electron.js&logoColor=black"/></a>
-
-
 ## 😄 About Me
 
 I am Just a **Electron Applications Developer**, An excited programmer with hardworking, proactive and a self-starter; capable to of handling stressful conditions. Extremely sensitive with Front-end like node.js and next.js.
