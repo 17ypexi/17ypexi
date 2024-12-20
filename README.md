@@ -1,18 +1,13 @@
- # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuxis&theme=radical&layout=compact">
-
-
-### I use
-<a href="https://nodejs.org/" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></a>
-<a href="https://developer.mozilla.org/pl/docs/Web/JavaScript" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hypexilegend&theme=radical&layout=compact">
 
 
+### I Love <a href="https://nodejs.org/" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></a> and
 
 
 ## 😄 About Me
 
-I am **Electron Applications Developer**, An excited programmer with hardworking, proactive and a self-starter; capable to of handling stressful conditions. Extremely sensitive with Front-end like node.js and next.js.
+I am Just a **Electron Applications Developer**, An excited programmer with hardworking, proactive and a self-starter; capable to of handling stressful conditions. Extremely sensitive with Front-end like node.js and next.js.
 
 
 ### Skills 🎓
@@ -27,5 +22,4 @@ I am **Electron Applications Developer**, An excited programmer with hardworking
 ## 🔗 Links
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/hypexilegend)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:smanamaynou@gmail.com)
-[![telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=red)](https://t.me/Sunny250984)
 [![discord](https://img.shields.io/badge/Discord-4285F4?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BXp5EZfwgy)
