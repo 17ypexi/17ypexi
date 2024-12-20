@@ -3,7 +3,7 @@
 
 
 ### I Love 
-<a href="https://nodejs.org/" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/electron.js%20-%2343853D.svg?&style=for-the-badge&logo=electron.js&logoColor=white"/></a>
+<a href="https://www.electronjs.org/" target="_blank" rel="nofollow noreferrer noopener"><img src="https://img.shields.io/badge/electron.js%20-%2343853D.svg?&style=for-the-badge&logo=electron.js&logoColor=black"/></a>
 
 
 ## 😄 About Me
@@ -15,7 +15,7 @@ I am Just a **Electron Applications Developer**, An excited programmer with hard
 
 | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="70"> |  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="70">      |  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="70"> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="70"> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="70"> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="70">  |    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="70">   |
 |-------------|-------------|-------------|-------------|-------------|-------------|-------------|
-| <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="70"> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="70"> |<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="70">  | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="70">   |  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="70"> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Swift.svg" width="70">   | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="70"> | 
+| <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="70"> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="70"> |<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="70">  | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="70">   |  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="70"> |   | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="70"> | 
 
 
 
